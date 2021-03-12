@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Ayush Kesarwani.
-- 👀 I’m interested in Machine Learning, Deep Learning, Web Development, & Data Structure.
+- 👀 I’m interested in Machine Learning, Deep Learning, AI, Web Development, & Data Structure.
 - 🌱 I’m currently pursuing Computer Science Engineering with specialization in Machine Learning and AI.
 - 💞️ I’m looking to collaborate on some exciting ML Projects.
 - 📫 How to reach me 
