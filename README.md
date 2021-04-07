@@ -6,6 +6,8 @@
   - LinkedIn- https://www.linkedin.com/in/ayush-kesarwani-638094174
   - Twitter - https://twitter.com/Ayush_1206
 
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ayush12062000&count_private=true)](https://github.com/Ayush12062000/github-readme-stats)
 <!---
 Ayush12062000/Ayush12062000 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
