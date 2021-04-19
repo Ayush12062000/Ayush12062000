@@ -6,7 +6,7 @@
   - LinkedIn- https://www.linkedin.com/in/ayush-kesarwani-638094174
   - Twitter - https://twitter.com/Ayush_1206
 
-
+# GitHub Stats
 [![Ayush Kesarwani's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ayush12062000&show_icons=true)](https://github.com/Ayush12062000/github-readme-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ayush12062000&layout=compact)](https://github.com/Ayush12062000/github-readme-stats)
