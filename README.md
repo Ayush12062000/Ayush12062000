@@ -8,7 +8,14 @@
 
 
 
-
+# Tutorials✍
+| S.No | Tutorials |
+| --- | --- |
+| 1. | [Meme Classification Using CNN in Python](https://valueml.com/meme-classification-using-cnn-in-python/) |
+| 2. | [Multi-Class Image Classification Using Keras in Python](https://valueml.com/multi-class-image-classification-using-keras-in-python/) |
+| 3. | [Emotion Detection Using CNN in Python Using Keras](https://valueml.com/emotion-detection-using-cnn-in-python-using-keras/) |
+| 4. | [Sentiment Analysis using BERT in Python](https://valueml.com/sentiment-analysis-using-bert-in-python/) |
+| 5. | [Neural Style Transfer with TensorFlow in Python](https://valueml.com/neural-style-transfer-with-tensorflow-in-python/) |
 
 
 # GitHub Stats
