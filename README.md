@@ -24,9 +24,6 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ayush12062000&layout=compact)](https://github.com/Ayush12062000/github-readme-stats)
 
 
-<p align="center">
-   <img src="https://komarev.com/ghpvc/?username=Ayush12062000&label=PROFILE+VIEWS&style=flat-square&color=blue")
-</p>
 
 <!---
 Ayush12062000/Ayush12062000 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
