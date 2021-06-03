@@ -29,7 +29,12 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ayush12062000&layout=compact)](https://github.com/Ayush12062000/github-readme-stats)
 
-
+<details align="center">
+  <summary>GitHub Activity Graph 📈</summary>
+<p align="center">
+  <img src="https://activity-graph.herokuapp.com/graph?username=Ayush12062000&theme=xcode" />
+</p>
+</details>
 
 <!---
 Ayush12062000/Ayush12062000 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
