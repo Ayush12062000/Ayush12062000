@@ -32,7 +32,9 @@
 <details align="center">
   <summary>GitHub Activity Graph 📈</summary>
 <p align="center">
-  <img src="https://activity-graph.herokuapp.com/graph?username=Ayush12062000&theme=xcode" />
+     
+  [![Ayush's github activity graph](https://activity-graph.herokuapp.com/graph?username=Ayush12062000&theme=dracula)](https://github.com/Ayush12062000/github-readme-activity-graph)
+     
 </p>
 </details>
 
