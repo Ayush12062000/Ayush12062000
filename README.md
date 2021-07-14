@@ -15,8 +15,8 @@
 <br/>
 <br/>
 
-# Tutorials✍
-| S.No | Tutorials |
+# My Blogs✍
+| S.No | Blogs |
 | --- | --- |
 | 1. | [Meme Classification Using CNN in Python](https://valueml.com/meme-classification-using-cnn-in-python/) |
 | 2. | [Multi-Class Image Classification Using Keras in Python](https://valueml.com/multi-class-image-classification-using-keras-in-python/) |
