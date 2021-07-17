@@ -24,6 +24,12 @@
 | 4. | [Sentiment Analysis using BERT in Python](https://valueml.com/sentiment-analysis-using-bert-in-python/) |
 | 5. | [Neural Style Transfer with TensorFlow in Python](https://valueml.com/neural-style-transfer-with-tensorflow-in-python/) |
 
+<!---
+# What are my featured projects:question::rocket:
+<code>[100DaysOfCode](https://github.com/chandrikadeb7/100DaysOfCode)</code>:hourglass:     
+<code>[Face Mask Detection](https://github.com/chandrikadeb7/Face-Mask-Detection)</code>:mask:  
+<code>[GirlScript Twitter Bot](https://github.com/chandrikadeb7/Girlscript-Twitter-Bot)</code>:robot:     
+--->
 
 # GitHub Stats
 [![Ayush Kesarwani's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ayush12062000&show_icons=true)](https://github.com/Ayush12062000/github-readme-stats)
