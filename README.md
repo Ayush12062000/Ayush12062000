@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/57597700/147883881-0727a6db-a102-4b0c-932d-68c07652f06f.jpg" height="350" width="100%"/>
+</p>
+
 # 👋 Hi, I’m _**Ayush Kesarwani**_
 
 <img align="left" alt="Image" src="https://user-images.githubusercontent.com/57597700/116680680-964bc200-a9c9-11eb-8883-deeb257fd9de.png" width="250"/>
