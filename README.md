@@ -36,10 +36,19 @@
 --->
 
 # GitHub Stats
+
+<div align="center">
+
 [![Ayush Kesarwani's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ayush12062000&show_icons=true)](https://github.com/Ayush12062000/github-readme-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ayush12062000&layout=compact)](https://github.com/Ayush12062000/github-readme-stats)
 
+</div>
+  
+<div align="center">
+  <img src="http://github-readme-streak-stats.herokuapp.com?user=Ayush12062000&theme=algolia&background=0d1117&hide_border=true" />
+</div>
+  
 <details align="center">
   <summary>GitHub Activity Graph 📈</summary>
 <p align="center">
