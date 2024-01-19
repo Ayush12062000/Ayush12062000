@@ -48,15 +48,6 @@
 <div align="center">
   <img src="http://github-readme-streak-stats.herokuapp.com?user=Ayush12062000&theme=algolia&background=0d1117&hide_border=true" />
 </div>
-  
-<details align="center">
-  <summary>GitHub Activity Graph 📈</summary>
-<p align="center">
-     
-  [![Ayush's github activity graph](https://activity-graph.herokuapp.com/graph?username=Ayush12062000&theme=dracula)](https://github.com/Ayush12062000/github-readme-activity-graph)
-     
-</p>
-</details>
 
 <!---
 Ayush12062000/Ayush12062000 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
